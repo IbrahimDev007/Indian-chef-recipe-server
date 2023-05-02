@@ -1,0 +1,289 @@
+[
+	{
+		"name": "Rajesh Kumar",
+		"picture": "https://example.com/chef-rajesh-kumar.jpg",
+		"years_of_experience": 10,
+		"number_of_recipes": 50,
+		"likes": 2000,
+		"bio": "Chef Rajesh Kumar is a renowned Indian chef with over 10 years of experience in creating delicious and authentic Indian cuisine. He has curated a collection of 50 recipes that showcase the diversity and richness of Indian flavors, and his recipes have been loved by thousands of people around the world. Chef Rajesh is passionate about using fresh, locally-sourced ingredients and incorporating traditional cooking techniques to bring out the best in every dish. He believes that cooking is an art form that allows him to express his creativity and connect with people from all walks of life.",
+		"recipes": [
+			{
+				"name": "Chicken Tikka Masala",
+				"ingredients": [
+					"boneless chicken",
+					"yogurt",
+					"garam masala",
+					"tomatoes",
+					"onions",
+					"garlic"
+				],
+				"method": "1. Marinate the chicken in yogurt and garam masala for 30 minutes.\n2. Grill the chicken until lightly charred.\n3. In a separate pan, sauté onions and garlic until golden brown.\n4. Add chopped tomatoes and cook until soft.\n5. Add the grilled chicken to the pan and cook for an additional 10 minutes.\n6. Serve hot with rice or naan bread.",
+				"rating": 4.5
+			},
+			{
+				"name": "Palak Paneer",
+				"ingredients": [
+					"spinach",
+					"paneer cheese",
+					"ginger",
+					"garlic",
+					"tomatoes",
+					"cream"
+				],
+				"method": "1. Boil spinach for 2-3 minutes and blend it into a puree.\n2. In a separate pan, sauté ginger and garlic until golden brown.\n3. Add chopped tomatoes and cook until soft.\n4. Add spinach puree and stir until well combined.\n5. Add paneer cheese and cook for an additional 5 minutes.\n6. Add cream and stir well.\n7. Serve hot with rice or naan bread.",
+				"rating": 4.8
+			},
+			{
+				"name": "Chana Masala",
+				"ingredients": [
+					"chickpeas",
+					"onions",
+					"tomatoes",
+					"ginger",
+					"garlic",
+					"cumin",
+					"coriander"
+				],
+				"method": "1. Soak chickpeas in water for 6-8 hours.\n2. In a pressure cooker, cook chickpeas until soft.\n3. In a separate pan, sauté onions, ginger, and garlic until golden brown.\n4. Add chopped tomatoes and cook until soft.\n5. Add cumin and coriander powder and stir well.\n6. Add the cooked chickpeas to the pan and cook for an additional 10 minutes.\n7. Serve hot with rice or naan bread.",
+				"rating": 4.2
+			}
+		]
+	},
+	{
+		"name": "Priya Patel",
+		"picture": "https://example.com/chef-priya-patel.jpg",
+		"years_of_experience": 8,
+		"number_of_recipes": 40,
+		"likes": 1500,
+		"bio": "Chef Priya Patel is a creative chef who blends Indian and European cooking styles to create unique, flavorful dishes that are loved by food enthusiasts everywhere. With over 8 years of experience, Chef Priya has crafted a collection of 40 recipes that showcase her innovative approach to cooking, including fusion dishes that combine the best of both worlds. She believes that cooking is an art form that allows her to experiment with new flavors and ingredients, and she is passionate about sharing her love of cooking with others.",
+		"recipes": [
+			{
+				"name": "Butter Chicken Pasta",
+				"ingredients": [
+					"chicken breasts",
+					"heavy cream",
+					"butter",
+					"garlic",
+					"onion",
+					"penne pasta"
+				],
+				"method": "1. Cook the penne pasta according to the instructions on the package.\n2. In a separate pan, melt butter and sauté garlic and onions until golden brown.\n3. Add boneless chicken breasts and cook until lightly browned.\n4. Add heavy cream and cook for an additional 5 minutes.\n5. Add the cooked penne pasta to the pan and stir well.\n6. Serve hot with grated Parmesan cheese.",
+				"rating": 4.7
+			},
+			{
+				"name": "Kadai Paneer Pizza",
+				"ingredients": [
+					"pizza dough",
+					"paneer cheese",
+					"bell peppers",
+					"tomatoes",
+					"onions",
+					"garam masala"
+				],
+				"method": "1. Roll out the pizza dough and spread tomato sauce over it.\n2. Add diced bell peppers, onions, and chopped tomatoes to the pizza.\n3. Add sliced paneer cheese and sprinkle garam masala over the pizza.\n4. Bake the pizza in a preheated oven at 400°F for 10-12 minutes.\n5. Serve hot.",
+				"rating": 4.5
+			},
+			{
+				"name": "Masala Fish Tacos",
+				"ingredients": [
+					"fish fillets",
+					"tortillas",
+					"cabbage",
+					"lime",
+					"cilantro",
+					"cumin",
+					"coriander"
+				],
+				"method": "1. Marinate fish fillets with cumin and coriander powder.\n2. Grill the fish until cooked through.\n3. In a separate pan, sauté chopped cabbage with lime and cilantro.\n4. Warm up tortillas in a pan.\n5. Add the grilled fish and cabbage mixture to the tortillas.\n6. Serve hot with your favorite salsa.",
+				"rating": 4.8
+			}
+		]
+	},
+	{
+		"name": "Rahul Gupta",
+		"picture": "https://example.com/chef-rahul-gupta.jpg",
+		"years_of_experience": 12,
+		"number_of_recipes": 60,
+		"likes": 2500,
+		"bio": "Chef Rahul Gupta is a master of traditional Indian cuisine with over 12 years of experience in the kitchen. He specializes in North Indian cuisine, particularly in the art of making delicious and authentic curries. Chef Rahul has developed a collection of 60 recipes that showcase his passion for using fresh, locally-sourced ingredients and traditional spices to create bold and flavorful dishes. He is committed to sharing his knowledge and love of Indian cuisine with others.",
+		"recipes": [
+			{
+				"name": "Paneer Tikka Masala",
+				"ingredients": [
+					"paneer cheese",
+					"yogurt",
+					"tomatoes",
+					"onions",
+					"ginger",
+					"garlic",
+					"garam masala"
+				],
+				"method": "1. Marinate paneer cheese cubes in yogurt and spices for 30 minutes.\n2. Grill the paneer cubes until lightly browned.\n3. In a separate pan, sauté onions, ginger, and garlic until golden brown.\n4. Add diced tomatoes and cook for 5 minutes.\n5. Add grilled paneer cubes and garam masala.\n6. Cook for an additional 5 minutes.\n7. Serve hot with naan bread.",
+				"rating": 4.9
+			},
+			{
+				"name": "Chicken Biryani",
+				"ingredients": [
+					"basmati rice",
+					"chicken thighs",
+					"onions",
+					"yogurt",
+					"ghee",
+					"saffron"
+				],
+				"method": "1. Soak basmati rice in water for 30 minutes.\n2. In a separate pan, sauté onions until golden brown.\n3. Add chicken thighs and cook until lightly browned.\n4. Add yogurt and ghee to the chicken mixture and cook for 10 minutes.\n5. In a separate pot, boil water and add saffron.\n6. Add the soaked basmati rice to the pot and cook until tender.\n7. Layer the rice and chicken mixture in a serving dish.\n8. Bake in the oven at 350°F for 15 minutes.\n9. Serve hot with raita and papadum.",
+				"rating": 4.7
+			},
+			{
+				"name": "Aloo Gobi",
+				"ingredients": [
+					"potatoes",
+					"cauliflower",
+					"tomatoes",
+					"ginger",
+					"garlic",
+					"turmeric"
+				],
+				"method": "1. Cut potatoes and cauliflower into bite-sized pieces.\n2. In a separate pan, sauté ginger and garlic until golden brown.\n3. Add diced tomatoes and cook for 5 minutes.\n4. Add the potatoes and cauliflower and cook for 10 minutes.\n5. Add turmeric and cook for an additional 5 minutes.\n6. Serve hot with rice or naan bread.",
+				"rating": 4.5
+			}
+		]
+	},
+	{
+		"name": "Shilpa Gupta",
+		"picture": "https://example.com/chef-shilpa-gupta.jpg",
+		"years_of_experience": 8,
+		"number_of_recipes": 50,
+		"likes": 2500,
+		"bio": "Chef Shilpa Gupta is a creative and innovative chef who has been honing her skills for over 8 years. She has developed a collection of 50 unique and flavorful recipes that are inspired by her travels and experiences. Chef Shilpa's cooking style is a fusion of Indian and Western cuisines, and she enjoys experimenting with new ingredients and techniques to create bold and exciting flavors. She is passionate about using fresh, seasonal ingredients and believes that cooking should be a fun and enjoyable experience for everyone.",
+		"recipes": [
+			{
+				"name": "Paneer Tikka",
+				"ingredients": [
+					"paneer",
+					"bell peppers",
+					"onions",
+					"yogurt",
+					"ginger",
+					"garlic",
+					"cumin",
+					"coriander",
+					"garam masala"
+				],
+				"method": "1. Marinate paneer, bell peppers, and onions with yogurt and spices for 30 minutes.\n2. Skewer the marinated paneer and vegetables.\n3. Grill the skewers until the paneer is lightly browned.\n4. Serve hot with mint chutney.",
+				"rating": 4.5
+			},
+			{
+				"name": "Chicken Korma",
+				"ingredients": [
+					"chicken",
+					"onions",
+					"ginger",
+					"garlic",
+					"almonds",
+					"coconut milk",
+					"turmeric",
+					"coriander powder",
+					"garam masala"
+				],
+				"method": "1. In a separate pan, sauté onions, ginger, and garlic until golden brown.\n2. Add diced almonds and cook for 5 minutes.\n3. Add turmeric, coriander powder, and garam masala and cook for 2 minutes.\n4. Add coconut milk and bring to a boil.\n5. Add chicken and cook until tender.\n6. Serve hot with naan or rice.",
+				"rating": 4.7
+			},
+			{
+				"name": "Mango Lassi",
+				"ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
+				"method": "1. Peel and dice a ripe mango.\n2. In a blender, blend the diced mango, yogurt, milk, sugar, and cardamom until smooth.\n3. Serve chilled.",
+				"rating": 4.4
+			}
+		]
+	},
+	{
+		"name": "Maya Singh",
+		"picture": "https://example.com/chef-maya-singh.jpg",
+		"years_of_experience": 8,
+		"number_of_recipes": 50,
+		"likes": 4000,
+		"bio": "Chef Maya Singh is an up-and-coming star in the world of Indian cuisine, with over 8 years of experience in the culinary industry. Her dishes are known for their bold and innovative flavors, and she is always experimenting with new ingredients and techniques. Chef Maya is passionate about sharing her love of food with others, and she believes that cooking is an art form that allows her to express herself and connect with people from all walks of life.",
+		"recipes": [
+			{
+				"name": "Palak Paneer",
+				"ingredients": [
+					"spinach",
+					"paneer",
+					"tomatoes",
+					"onions",
+					"garam masala"
+				],
+				"method": "1. Blanche spinach in boiling water for 2-3 minutes.\n2. Drain and puree in a blender.\n3. Heat oil in a pan and add diced onions.\n4. Cook until the onions are soft and translucent.\n5. Add diced tomatoes and cook for 5-7 minutes.\n6. Add pureed spinach and garam masala and stir well.\n7. Add cubed paneer and simmer until heated through.\n8. Serve hot with naan or rice.",
+				"rating": 4.6,
+				"image": "https://example.com/palak-paneer.jpg"
+			},
+			{
+				"name": "Biryani",
+				"ingredients": [
+					"basmati rice",
+					"chicken",
+					"onions",
+					"yogurt",
+					"mint leaves"
+				],
+				"method": "1. Marinate chicken in a mixture of yogurt, ginger, garlic, and spices for at least an hour.\n2. Cook basmati rice in a separate pot until partially cooked.\n3. Sauté onions in oil until golden brown.\n4. Add the marinated chicken and cook until browned on all sides.\n5. Layer the rice and chicken in a baking dish.\n6. Add water and cover the dish with foil.\n7. Bake in the oven for 20-25 minutes.\n8. Garnish with mint leaves and serve hot.",
+				"rating": 4.9,
+				"image": "https://example.com/biryani.jpg"
+			},
+			{
+				"name": "Gulab Jamun",
+				"ingredients": [
+					"milk powder",
+					"flour",
+					"baking powder",
+					"sugar",
+					"rose water"
+				],
+				"method": "1. Mix milk powder, flour, and baking powder in a bowl.\n2. Add water to make a dough.\n3. Roll the dough into small balls.\n4. Fry the balls in hot oil until golden brown.\n5. Soak the balls in sugar syrup for 10-15 minutes.\n6. Add a few drops of rose water to the syrup.\n7. Serve hot or cold.",
+				"rating": 4.7,
+				"image": "https://example.com/gulab-jamun.jpg"
+			}
+		]
+	},
+	{
+		"name": "Rohit Patel",
+		"picture": "https://example.com/chef-rohit-patel.jpg",
+		"years_of_experience": 12,
+		"number_of_recipes": 70,
+		"likes": 6000,
+		"bio": "Chef Rohit Patel is a master of Indian cuisine, with over 12 years of experience in the culinary industry. He has worked in some of the top restaurants in India and has won several awards for his innovative and delicious dishes. Chef Rohit is known for his ability to blend traditional flavors with modern techniques, creating dishes that are both authentic and unique. He is passionate about using fresh, locally sourced ingredients and believes that food is a way to connect with people and bring them together.",
+		"recipes": [
+			{
+				"name": "Chicken Tikka Masala",
+				"ingredients": [
+					"chicken",
+					"yogurt",
+					"tomatoes",
+					"onions",
+					"garam masala"
+				],
+				"method": "1. Marinate chicken in a mixture of yogurt, ginger, garlic, and spices for at least an hour.\n2. Grill or roast chicken until browned.\n3. Sauté onions in a pan until soft.\n4. Add diced tomatoes and cook until the mixture thickens.\n5. Add garam masala and stir well.\n6. Add the grilled chicken and simmer until heated through.\n7. Serve hot with naan or rice.",
+				"rating": 4.8
+			},
+			{
+				"name": "Saag Paneer",
+				"ingredients": ["spinach", "paneer", "garlic", "cumin", "cream"],
+				"method": "1. Blanche spinach in boiling water for 2-3 minutes.\n2. Drain and puree in a blender.\n3. Heat oil in a pan and add diced garlic.\n4. Add cumin and cook for 1-2 minutes.\n5. Add pureed spinach and simmer for 5-7 minutes.\n6. Add cubed paneer and cream.\n7. Simmer for another 5 minutes.\n8. Serve hot with naan or rice.",
+				"rating": 4.5
+			},
+			{
+				"name": "Chana Masala",
+				"ingredients": [
+					"chickpeas",
+					"tomatoes",
+					"onions",
+					"cumin",
+					"coriander"
+				],
+				"method": "1. Sauté onions in oil until golden brown.\n2. Add diced tomatoes and cook until the mixture thickens.\n3. Add cumin and coriander and cook for 1-2 minutes.\n4. Add chickpeas and simmer for 10-15 minutes.\n5. Serve hot with naan or rice.",
+				"rating": 4.6
+			}
+		]
+	}
+]
