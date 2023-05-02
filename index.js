@@ -23,6 +23,28 @@ app.get('/', (req, res) => {
     res.send(chefsData);
 });
 
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const chef = chefs[id];
+
+    if (!chef) {
+        res.status(404).send('Chef not found');
+        return;
+    }
+
+    const chefData = {
+        name: chef.name,
+        picture: chef.picture,
+        years_of_experience: chef.years_of_experience,
+        number_of_recipes: chef.number_of_recipes,
+        likes: chef.likes,
+        bio: chef.bio,
+        recipes: chef.recipes
+    };
+
+    res.send(chefData);
+});
+
 
 
 app.listen(port, () => {
