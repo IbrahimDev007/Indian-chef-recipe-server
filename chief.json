@@ -1,14 +1,17 @@
 [
 	{
 		"name": "Rajesh Kumar",
-		"picture": "https://example.com/chef-rajesh-kumar.jpg",
+		"picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 10,
 		"number_of_recipes": 50,
 		"likes": 2000,
 		"bio": "Chef Rajesh Kumar is a renowned Indian chef with over 10 years of experience in creating delicious and authentic Indian cuisine. He has curated a collection of 50 recipes that showcase the diversity and richness of Indian flavors, and his recipes have been loved by thousands of people around the world. Chef Rajesh is passionate about using fresh, locally-sourced ingredients and incorporating traditional cooking techniques to bring out the best in every dish. He believes that cooking is an art form that allows him to express his creativity and connect with people from all walks of life.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Chicken Tikka Masala",
+				"image": "https://images.pexels.com/photos/14950910/pexels-photo-14950910.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"boneless chicken",
 					"yogurt",
@@ -21,7 +24,10 @@
 				"rating": 4.5
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Palak Paneer",
+				"image": "https://images.pexels.com/photos/9609835/pexels-photo-9609835.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"spinach",
 					"paneer cheese",
@@ -34,7 +40,10 @@
 				"rating": 4.8
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Chana Masala",
+				"image": "https://images.pexels.com/photos/9287032/pexels-photo-9287032.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"chickpeas",
 					"onions",
@@ -51,14 +60,17 @@
 	},
 	{
 		"name": "Priya Patel",
-		"picture": "https://example.com/chef-priya-patel.jpg",
+		"picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 8,
 		"number_of_recipes": 40,
 		"likes": 1500,
 		"bio": "Chef Priya Patel is a creative chef who blends Indian and European cooking styles to create unique, flavorful dishes that are loved by food enthusiasts everywhere. With over 8 years of experience, Chef Priya has crafted a collection of 40 recipes that showcase her innovative approach to cooking, including fusion dishes that combine the best of both worlds. She believes that cooking is an art form that allows her to experiment with new flavors and ingredients, and she is passionate about sharing her love of cooking with others.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Butter Chicken Pasta",
+				"image": "https://images.pexels.com/photos/6607320/pexels-photo-6607320.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"chicken breasts",
 					"heavy cream",
@@ -71,7 +83,10 @@
 				"rating": 4.7
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Kadai Paneer Pizza",
+				"image": "https://images.pexels.com/photos/14866632/pexels-photo-14866632.jpeg?auto=compress&cs=tinysrgb&w=300",
 				"ingredients": [
 					"pizza dough",
 					"paneer cheese",
@@ -84,7 +99,10 @@
 				"rating": 4.5
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Masala Fish Tacos",
+				"image": "https://images.pexels.com/photos/14984050/pexels-photo-14984050.jpeg?auto=compress&cs=tinysrgb&w=300",
 				"ingredients": [
 					"fish fillets",
 					"tortillas",
@@ -101,14 +119,17 @@
 	},
 	{
 		"name": "Rahul Gupta",
-		"picture": "https://example.com/chef-rahul-gupta.jpg",
+		"picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 12,
 		"number_of_recipes": 60,
 		"likes": 2500,
 		"bio": "Chef Rahul Gupta is a master of traditional Indian cuisine with over 12 years of experience in the kitchen. He specializes in North Indian cuisine, particularly in the art of making delicious and authentic curries. Chef Rahul has developed a collection of 60 recipes that showcase his passion for using fresh, locally-sourced ingredients and traditional spices to create bold and flavorful dishes. He is committed to sharing his knowledge and love of Indian cuisine with others.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Paneer Tikka Masala",
+				"image": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"paneer cheese",
 					"yogurt",
@@ -122,7 +143,10 @@
 				"rating": 4.9
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Chicken Biryani",
+				"image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"basmati rice",
 					"chicken thighs",
@@ -135,7 +159,10 @@
 				"rating": 4.7
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Aloo Gobi",
+				"image": "https://images.pexels.com/photos/15014923/pexels-photo-15014923.jpeg?auto=compress&cs=tinysrgb&w=300",
 				"ingredients": [
 					"potatoes",
 					"cauliflower",
@@ -151,14 +178,17 @@
 	},
 	{
 		"name": "Shilpa Gupta",
-		"picture": "https://example.com/chef-shilpa-gupta.jpg",
+		"picture": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 8,
 		"number_of_recipes": 50,
 		"likes": 2500,
 		"bio": "Chef Shilpa Gupta is a creative and innovative chef who has been honing her skills for over 8 years. She has developed a collection of 50 unique and flavorful recipes that are inspired by her travels and experiences. Chef Shilpa's cooking style is a fusion of Indian and Western cuisines, and she enjoys experimenting with new ingredients and techniques to create bold and exciting flavors. She is passionate about using fresh, seasonal ingredients and believes that cooking should be a fun and enjoyable experience for everyone.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Paneer Tikka",
+				"image": "https://images.pexels.com/photos/2580464/pexels-photo-2580464.jpeg?auto=compress&cs=tinysrgb&w=300",
 				"ingredients": [
 					"paneer",
 					"bell peppers",
@@ -174,7 +204,10 @@
 				"rating": 4.5
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Chicken Korma",
+				"image": "https://images.pexels.com/photos/14846852/pexels-photo-14846852.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"chicken",
 					"onions",
@@ -190,7 +223,10 @@
 				"rating": 4.7
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Mango Lassi",
+				"image": "https://images.pexels.com/photos/14509267/pexels-photo-14509267.jpeg?auto=compress&cs=tinysrgb&w=300",
 				"ingredients": ["mango", "yogurt", "milk", "sugar", "cardamom"],
 				"method": "1. Peel and dice a ripe mango.\n2. In a blender, blend the diced mango, yogurt, milk, sugar, and cardamom until smooth.\n3. Serve chilled.",
 				"rating": 4.4
@@ -199,14 +235,17 @@
 	},
 	{
 		"name": "Maya Singh",
-		"picture": "https://example.com/chef-maya-singh.jpg",
+		"picture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 8,
 		"number_of_recipes": 50,
 		"likes": 4000,
 		"bio": "Chef Maya Singh is an up-and-coming star in the world of Indian cuisine, with over 8 years of experience in the culinary industry. Her dishes are known for their bold and innovative flavors, and she is always experimenting with new ingredients and techniques. Chef Maya is passionate about sharing her love of food with others, and she believes that cooking is an art form that allows her to express herself and connect with people from all walks of life.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Palak Paneer",
+
 				"ingredients": [
 					"spinach",
 					"paneer",
@@ -216,9 +255,11 @@
 				],
 				"method": "1. Blanche spinach in boiling water for 2-3 minutes.\n2. Drain and puree in a blender.\n3. Heat oil in a pan and add diced onions.\n4. Cook until the onions are soft and translucent.\n5. Add diced tomatoes and cook for 5-7 minutes.\n6. Add pureed spinach and garam masala and stir well.\n7. Add cubed paneer and simmer until heated through.\n8. Serve hot with naan or rice.",
 				"rating": 4.6,
-				"image": "https://example.com/palak-paneer.jpg"
+				"image": "https://images.pexels.com/photos/11115801/pexels-photo-11115801.jpeg?auto=compress&cs=tinysrgb&w=600"
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Biryani",
 				"ingredients": [
 					"basmati rice",
@@ -229,9 +270,11 @@
 				],
 				"method": "1. Marinate chicken in a mixture of yogurt, ginger, garlic, and spices for at least an hour.\n2. Cook basmati rice in a separate pot until partially cooked.\n3. Sauté onions in oil until golden brown.\n4. Add the marinated chicken and cook until browned on all sides.\n5. Layer the rice and chicken in a baking dish.\n6. Add water and cover the dish with foil.\n7. Bake in the oven for 20-25 minutes.\n8. Garnish with mint leaves and serve hot.",
 				"rating": 4.9,
-				"image": "https://example.com/biryani.jpg"
+				"image": "https://images.pexels.com/photos/7837978/pexels-photo-7837978.jpeg?auto=compress&cs=tinysrgb&w=300"
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Gulab Jamun",
 				"ingredients": [
 					"milk powder",
@@ -242,20 +285,23 @@
 				],
 				"method": "1. Mix milk powder, flour, and baking powder in a bowl.\n2. Add water to make a dough.\n3. Roll the dough into small balls.\n4. Fry the balls in hot oil until golden brown.\n5. Soak the balls in sugar syrup for 10-15 minutes.\n6. Add a few drops of rose water to the syrup.\n7. Serve hot or cold.",
 				"rating": 4.7,
-				"image": "https://example.com/gulab-jamun.jpg"
+				"image": "https://images.pexels.com/photos/7449105/pexels-photo-7449105.jpeg?auto=compress&cs=tinysrgb&w=300"
 			}
 		]
 	},
 	{
 		"name": "Rohit Patel",
-		"picture": "https://example.com/chef-rohit-patel.jpg",
+		"picture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=600",
 		"years_of_experience": 12,
 		"number_of_recipes": 70,
 		"likes": 6000,
 		"bio": "Chef Rohit Patel is a master of Indian cuisine, with over 12 years of experience in the culinary industry. He has worked in some of the top restaurants in India and has won several awards for his innovative and delicious dishes. Chef Rohit is known for his ability to blend traditional flavors with modern techniques, creating dishes that are both authentic and unique. He is passionate about using fresh, locally sourced ingredients and believes that food is a way to connect with people and bring them together.",
 		"recipes": [
 			{
+				"id": 1,
+				"IsDisable": false,
 				"name": "Chicken Tikka Masala",
+				"image": "https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"chicken",
 					"yogurt",
@@ -267,13 +313,19 @@
 				"rating": 4.8
 			},
 			{
+				"id": 2,
+				"IsDisable": false,
 				"name": "Saag Paneer",
+				"image": "https://images.pexels.com/photos/11115801/pexels-photo-11115801.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": ["spinach", "paneer", "garlic", "cumin", "cream"],
 				"method": "1. Blanche spinach in boiling water for 2-3 minutes.\n2. Drain and puree in a blender.\n3. Heat oil in a pan and add diced garlic.\n4. Add cumin and cook for 1-2 minutes.\n5. Add pureed spinach and simmer for 5-7 minutes.\n6. Add cubed paneer and cream.\n7. Simmer for another 5 minutes.\n8. Serve hot with naan or rice.",
 				"rating": 4.5
 			},
 			{
+				"id": 3,
+				"IsDisable": false,
 				"name": "Chana Masala",
+				"image": "https://images.pexels.com/photos/9287035/pexels-photo-9287035.jpeg?auto=compress&cs=tinysrgb&w=600",
 				"ingredients": [
 					"chickpeas",
 					"tomatoes",
